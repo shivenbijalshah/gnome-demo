@@ -45,10 +45,13 @@ body {
     font-weight: lighter;
 }
 #bigimg {
-    font-size: 200%;
+    font-size: 400%;
+    color: darkgrey;
     background-image: url(big_img.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-    
-
+    background-position: center;
+    background-size: cover;
+    height: 1080px;
+    line-height: 0.5;
+    font-style: italic;
 }
