@@ -1,4 +1,54 @@
 body {
-    background-image:url(core_guide.jpg);
+    background-color: white;
+}
+#gnome {
+    background-color: #333333;
+    padding-top: 10px; 
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+    background-size:500px;
+    font-size: 250px;
+    font-stretch: condensed;
+    font-family: sans-serif;
+    color: #FFCF05;
+    font-weight: 50px;
+    height: 150px;
+    font-weight: lighter;
+}
+#htvi {
+    float:right;
+    background-color: #333333;
+    width: 100%;
+   ;
+}
+#htvi1 {
+    padding-top: 10px; 
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+    color: grey;
+    height: 25px;
+    float: right;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+#htvi2 {
+    float: right;
+    padding-top: 10px; 
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+    color: white;
+    height: 25px; 
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+#bigimg {
+    font-size: 200%;
+    background-image: url(big_img.jpg);
     background-repeat: no-repeat;
+    background-size: contain;
+    
+
 }
